@@ -1,0 +1,5 @@
+## Interface: 90005
+## Title: SteerAndAct
+## Notes: Allows to put an additional bind to the "Steer and act" action (which normally is being performed by the mouse right-click)
+## Author: Mortarez/Triama
+SteerAndAct.lua
